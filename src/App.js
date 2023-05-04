@@ -47,7 +47,7 @@ class Home extends React.Component {
                       <i class="fa fa-check mr-2 text-primary"></i> post only 5 tweets a day</li>
                     
                   </ul>
-                  <a href="https://rzp.io/i/3DLraSg0" class="btn btn-primary btn-block p-2 shadow rounded-pill">Subscribe</a>
+                  <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Subscribe</a>
                 </div>
               </div>
              
@@ -61,7 +61,7 @@ class Home extends React.Component {
                       <i class="fa fa-check mr-2 text-primary"></i> post unlimited tweets</li>
 
                   </ul>
-                  <a href="https://rzp.io/i/EGSV1C5pu" class="btn btn-primary btn-block p-2 shadow rounded-pill">Subscribe</a>
+                  <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Subscribe</a>
                 </div>
               </div>
              
